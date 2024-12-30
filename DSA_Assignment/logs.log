@@ -1,0 +1,31 @@
+2024-08-07 09:14:45,498 - CRITICAL - Program Initiation
+2024-08-07 09:14:55,708 - INFO - Staff Login: Staff1
+2024-08-07 09:18:02,060 - INFO - Staff1 logged out
+2024-08-07 09:18:02,060 - CRITICAL - Program closed
+2024-08-07 09:18:05,581 - CRITICAL - Program Initiation
+2024-08-07 09:18:22,100 - WARNING - User login process terminated
+2024-08-07 09:18:22,100 - CRITICAL - Program closed
+2024-08-07 09:18:24,260 - CRITICAL - Program Initiation
+2024-08-07 09:18:28,022 - INFO - Staff Login: Staff1
+2024-08-07 09:18:43,254 - INFO - Staff1 created Username: Damien Password: 123
+2024-08-07 09:18:53,777 - INFO - Staff1 created Username: Marcus Password: 123
+2024-08-07 09:18:55,537 - INFO - Staff1 logged out
+2024-08-07 09:19:00,329 - INFO - User Login: Damien
+2024-08-07 09:20:15,054 - CRITICAL - Program Initiation
+2024-08-07 09:20:30,544 - INFO - Staff Login: Staff1
+2024-08-07 09:20:31,114 - INFO - Staff1 logged out
+2024-08-07 09:20:38,943 - INFO - User Login: Damien
+2024-08-07 09:21:16,847 - INFO - Damien borrowed 1984
+2024-08-07 09:21:21,818 - INFO - Damien has returned 1984
+2024-08-07 10:00:41,411 - CRITICAL - Program Initiation
+2024-08-07 10:00:45,772 - INFO - Staff Login: Staff1
+2024-08-07 10:00:51,949 - INFO - Staff1 viewed all user details
+2024-08-07 10:06:12,593 - CRITICAL - Program Initiation
+2024-08-07 10:06:25,980 - INFO - Staff Login: Staff1
+2024-08-07 10:07:05,382 - INFO - Staff1 added ISBN 123432
+2024-08-07 10:07:23,852 - INFO - Staff1 added ISBN 1232346
+2024-08-07 10:07:58,761 - INFO - Staff1 viewed all user details
+2024-08-07 10:09:42,979 - INFO - Staff1 logged out
+2024-08-07 10:09:52,750 - INFO - User Login: Damien
+2024-08-07 10:10:13,757 - INFO - Damien borrowed 1984
+2024-08-07 10:10:16,498 - INFO - Damien has returned 1984
